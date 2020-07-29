@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![trajce.com](https://github.com/trajce/trajce/raw/master/logo.svg "trajce.com")](https://trajce.com/)
+<h1 allign="center">
+<a href="https://trajce.com"><img src="https://github.com/trajce/trajce/raw/master/logo.svg" alt="trajce.com" width="200"></a>
+</h1>
 
 <!--
 **trajce/trajce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
