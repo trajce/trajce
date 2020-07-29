@@ -1,4 +1,4 @@
-## I am front-end web developer
+## I am a front-end web developer
 
 <h2>website 👇</h2>
 
