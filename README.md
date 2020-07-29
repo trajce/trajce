@@ -1,8 +1,8 @@
-### Hi there 👋
+<h2 style="text-align:center">Hi there 👋</h2>
 
-<h1 allign="center">
-<a href="https://trajce.com"><img src="https://github.com/trajce/trajce/raw/master/logo.svg" alt="trajce.com" width="200"></a>
-</h1>
+<div style="text-align:center">
+<a href="https://trajce.com"><img src="https://github.com/trajce/trajce/raw/master/logo.svg" alt="trajce.com" rel="nofollow" width="200"></a>
+</div>
 
 <!--
 **trajce/trajce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
